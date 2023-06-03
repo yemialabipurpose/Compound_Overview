@@ -3,6 +3,9 @@ Compound Finance is a decentralized finance (DeFi) protocol that allows users to
 
 In this overview, we will take a look at the Compound Finance ecosystem. We will discuss the total borrows, total liquidity, total liquidity by asset, and total borrows by asset. We will also discuss daily user activity, average daily transactions, and average monthly transactions.
 
+![image](https://github.com/yemialabipurpose/Compound_Overview/assets/37623664/f62189c4-96c2-4cf1-b778-a3d8ed155288)
+
+
 ## ANALYSIS SUMMARY
 Compound Finance has witnessed fluctuations in borrowing activities, with notable trends and statistics. In terms of average borrowing amounts, February stands out as the month with the highest average borrowing amount, while December records the lowest average borrowing amount. These variations reflect the dynamic nature of borrowing activities on the platform throughout the year.
 
