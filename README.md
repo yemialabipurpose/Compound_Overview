@@ -18,3 +18,5 @@ Examining user activity, June 22, 2020, witnessed the peak in daily transactions
 Considering transaction amounts, the average daily transaction amount reached its highest point on October 30, 2021, at $14.16 million. Throughout the entire period, the overall average daily transaction amount stands at $526.52K, indicating the typical transaction volume experienced on the platform. Furthermore, the average monthly transaction amount for the entire period till date is $532.05K, highlighting the consistent transactional patterns on a monthly basis.
 
 These statistics collectively demonstrate the evolving nature of borrowing activities on Compound Finance, with fluctuations in average amounts, user engagement, and asset preferences. The platform continues to play a significant role within the decentralized finance (DeFi) landscape, attracting diverse borrowers and facilitating borrowing transactions across various assets.
+
+### The details about the analysis, queries useds, and plots charted can be found in the other files 
